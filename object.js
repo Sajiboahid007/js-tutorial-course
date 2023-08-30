@@ -1,11 +1,11 @@
  let studentList = [];
-// class information {
-//     constructor(name, id, age) {
-//         this.name = name;
-//         this.id=id;
-//         this.age= age;
-//     }
-// }
+class information {
+    constructor(name, id, age) {
+        this.name = name;
+        this.id=id;
+        this.age= age;
+    }
+}
 
 for(let i = 0; i < 50; i ++){
     //let studentInformation = new information(`sajib${i}`,`csse-${i}`, 10 + i );
