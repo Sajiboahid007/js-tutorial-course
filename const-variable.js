@@ -1,0 +1,10 @@
+let age =30;
+age = 31;
+console.log(age);
+const birthYear = 1990;
+// birthYear=1991;
+console.log(birthYear);
+ var job = "programmer";
+ job="teacher";
+lastname = "sadman";
+console.log(lastname);
